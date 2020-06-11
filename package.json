@@ -7,7 +7,7 @@
     "name": "edh-vscode-pack",
     "displayName": "Đ (Edh) Language Pack",
     "description": "Language Support for Đ (Edh)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.20.0"
     },
