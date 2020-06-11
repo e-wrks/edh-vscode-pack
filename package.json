@@ -4,8 +4,8 @@
         "url": "https://github.com/e-wrks/edh-vscode-pack"
     },
     "name": "edh-vscode-pack",
-    "displayName": "Edh Language Pack",
-    "description": "Language Support for Edh",
+    "displayName": "Đ (Edh) Language Pack",
+    "description": "Language Support for Đ (Edh)",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.20.0"
