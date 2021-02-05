@@ -5,7 +5,7 @@
         "url": "https://github.com/e-wrks/edh-vscode-pack"
     },
     "name": "edh-vscode-pack",
-    "displayName": "Đ (Edh) Language Pack",
+    "displayName": "Đ Language Pack",
     "description": "Language Support for Đ (Edh)",
     "version": "1.0.1",
     "engines": {
@@ -17,6 +17,7 @@
     ],
     "extensionPack": [
         "ComplYue.edh-vscode-syntax",
-        "ComplYue.edh-vscode-formatter"
+        "ComplYue.edh-vscode-formatter",
+        "ComplYue.edh-vscode-lsc"
     ]
 }
